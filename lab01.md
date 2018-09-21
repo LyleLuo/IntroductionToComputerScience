@@ -5,7 +5,7 @@ title: 请将标题写在这里
 
 # 我的博客标题
 
-## 1、你会使用 vscode 编辑 markdown 了吗？...
+## 1、你会使用 vscode 编辑 markdown 了吗？
 
 你会使用 git bash 创建本地空间了吗？
 
