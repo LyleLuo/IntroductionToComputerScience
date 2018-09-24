@@ -19,12 +19,10 @@ title:广州大学城的介绍
 
 ### 一期的学校有：
 #### 1、中山大学
-<center>
-![中山大学](https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike92%2C5%2C5%2C92%2C30/sign=e0c646358926cffc7d27b7e0d86821f5/b3119313b07eca8032bb094b9a2397dda04483db.jpg)
-</center>
-<center>
-！[中山大学](https://gss0.bdstatic.com/94o3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike116%2C5%2C5%2C116%2C38/sign=3fd9cd808426cffc7d27b7e0d86821f5/29381f30e924b899219dc22168061d950a7bf602.jpg)
-</center>
+<div align="center">
+<img src="https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike92%2C5%2C5%2C92%2C30/sign=e0c646358926cffc7d27b7e0d86821f5/b3119313b07eca8032bb094b9a2397dda04483db.jpg">
+<img src="https://gss0.bdstatic.com/94o3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike116%2C5%2C5%2C116%2C38/sign=3fd9cd808426cffc7d27b7e0d86821f5/29381f30e924b899219dc22168061d950a7bf602.jpg")
+</div>
 #### 2、华南理工大学
 ![华南理工大学]
 #### 3、华南师范大学
