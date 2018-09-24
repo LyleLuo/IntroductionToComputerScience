@@ -7,7 +7,7 @@ title: ”
 
 ## 1、你会使用 vscode 编辑 markdown 了吗？
 ？？？？？？
-你会使用 git bash 创建本地空间了吗打卡机安抚客户罚款？
+你会使用 git    bash 创建本地空间了吗打卡机安抚客户罚款？
 
 你能拉取本文档到本地了？它在 gh-pages 分支内，设置 Slate 主题！
 
