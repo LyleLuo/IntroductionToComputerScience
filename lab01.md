@@ -7,9 +7,7 @@ title:广州大学城的介绍
 同学们，你们都来自五湖四海，现在来到了中山大学东校区，也就是在大学城的校区，也许还有很多同学对广州大学城不了解，我希望可以通过这篇博客帮大家了解大学城!
 
 
-
-
-<center>![广州大学城](https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268/sign=6368bbb85de736d158138b0ea3514ffc/0823dd54564e92580a6f738a9582d158ccbf4e7f.jpg)</center>
+<div align="center"><img src="https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268/sign=6368bbb85de736d158138b0ea3514ffc/0823dd54564e92580a6f738a9582d158ccbf4e7f.jpg"></div>
 
 
 ## 1、首先我们来了解下广州大学城的来源
