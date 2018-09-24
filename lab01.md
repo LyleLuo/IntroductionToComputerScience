@@ -1,16 +1,30 @@
 ---
 layout: default
-title: 中国大陆的“计算机强校”
+title:广州大学城的介绍
 ---
 
-# 我的博客标题
+# 广州大学城
+同学们，你们都来自五湖四海，现在来到了中山大学东校区，也就是在大学城的校区，也许还有很多同学对广州大学城不了解，我希望可以通过这篇博客帮大家了解大学城
+![广州大学城](https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268/sign=6368bbb85de736d158138b0ea3514ffc/0823dd54564e92580a6f738a9582d158ccbf4e7f.jpg)</center>
 
-## 1、你会使用 vscode 编辑 markdown 了吗？
-？？？？？？
-你会使用 git    bash 创建本地空间了吗打卡机安抚客户罚款？
 
-你能拉取本文档到本地了？它在 gh-pages 分支内，设置 Slate 主题！
+## 1、首先我们来了解下广州大学城的来源
+2003年1月21日，中共中央政治局委员、广东省委书记张德江上任仅两个月，就来到番禺的小谷围岛视察广州大学城建设前期准备工作，并提出“建设全国一流大学城”和“2004年9月开学招生”的要求，为大学城建设指明了方向，广州大学城建设全面启动。
 
-用 vscode 编辑它，然后提交！
+## 2、我们来了解一下广州大学城的学校
 
-这个文档将发布在 https://your-account.github.io/homework 中！
+###一期的学校有：
+####1、中山大学
+![中山大学](https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike92%2C5%2C5%2C92%2C30/sign=e0c646358926cffc7d27b7e0d86821f5/b3119313b07eca8032bb094b9a2397dda04483db.jpg)</center>
+！[](https://gss0.bdstatic.com/94o3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike116%2C5%2C5%2C116%2C38/sign=3fd9cd808426cffc7d27b7e0d86821f5/29381f30e924b899219dc22168061d950a7bf602.jpg)
+####2、华南理工大学
+![华南理工大学]
+####3、华南师范大学
+####4、广州大学
+####5、广东外语外贸大学
+####6、广东工业大学
+####7、广州中医药大学
+####8、广东药科大学
+####9、星海音乐学院
+####10、广州美术学院
+
