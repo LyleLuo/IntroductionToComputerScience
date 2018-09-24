@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 请将标题写在这里
+title: 中国大陆的“计算机强校”
 ---
 
 # 我的博客标题
