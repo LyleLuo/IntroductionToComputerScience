@@ -8,4 +8,4 @@
 ### 首先打开construct2，做好必要的文件准备。
 1、如果没有construct2，可在https://www.scirra.com上下载
 2、打开construct2，选择New project
-![image](images/(49).png)
+<div align="center"><img src="images/0(49)"></div>
