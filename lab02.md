@@ -3,3 +3,7 @@
 我们先来看一下这效果图
 
 <div align="center"><img src="http://m.qpic.cn/psb?/V1163ODP3Tjsyo/.gEq7nA8YuNf8SzEHlfhDHUSDuiuuGnV6TfNFxeKR7Q!/b/dFMBAAAAAAAA&bo=ygEXAQAAAAACd44!&rf=viewer_4"></div>
+
+## 接下来，就是我们的具体教程了！
+### 首先打开construct2，做好必要的文件准备。
+
