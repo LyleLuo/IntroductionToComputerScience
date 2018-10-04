@@ -8,4 +8,4 @@
 ### 首先打开construct2，做好必要的文件准备。
 1、如果没有construct2，可在https://www.scirra.com上下载
 2、打开construct2，选择New project
-![image](F:/软件工程导论/小游戏/10.4/截图 (50).png)
+![image](images/截图 (50).png)
