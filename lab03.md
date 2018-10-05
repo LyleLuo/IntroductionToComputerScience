@@ -15,7 +15,7 @@
  <div align="center"><img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1538743725120&di=9533a4bee1f2258f13a7d6fac81203ab&imgtype=0&src=http%3A%2F%2Fmsp.baidu.com%2Fv1%2Fmediaspot%2F10f76f14335afcdd6b3da057d46066a7.gif"></div>
 
 崔妮蒂：一名逃离了矩阵的电脑程序员和黑客，因侵入一个极其安全的数据库而在黑客界闻名。是墨菲斯的助手，帮助其他人逃离矩阵。 
-<div align="center"><img src=""></div>
+<div align="center"><img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1538761397968&di=7ad91d784d52215f0ff99a5ce58cf381&imgtype=0&src=http%3A%2F%2Fa3.att.hudong.com%2F05%2F78%2F01300001227198135305781544351.jpg"></div>
 
 
 
@@ -30,4 +30,15 @@
 ### 基本剧情
 
 尼奥白天是一个大公司的程序员，而晚上就是一个黑客。尼奥发现这看似真实的世界好像在被某些东西支配着，便一直在网络上调查此事。而人类反抗组织的船长墨菲斯，也一直在寻找救世主带领人类逃离矩阵（矩阵是一个计算机人工智能系统），尼奥在崔妮蒂的带领下，成功与墨菲斯见面，开始了三个人一起对抗矩阵的征途。
+
+### 影片截图
+
+<div align="center"><img src="http://imgsrc.baidu.com/forum/h%3D332%3Bcrop%3D64%2C0%2C670%2C332/sign=cadfe76eb3de9c82b965ff8c5ebae378/a7121f30e924b899f1867a6f6e061d950b7bf6dd.jpg"></div>
+<div align="center"><img src="http://imgsrc.baidu.com/forum/w%3D595/sign=47e792a57d1ed21b79c92eec986fddae/b9fb2f2eb9389b508fb1e3058535e5dde6116ec1.jpg"></div>
+<div align="center"><img src=""></div>
+<div align="center"><img src=""></div>
+<div align="center"><img src=""></div>
+<div align="center"><img src=""></div>
+<div align="center"><img src=""></div>
+
 
