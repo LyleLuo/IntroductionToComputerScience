@@ -41,7 +41,7 @@
 <div align="center"><img src="http://imgsrc.baidu.com/forum/w%3D486/sign=963d137895cad1c8d0bbfd2f493f67c4/45aa65380cd7912331ae9723ad345982b3b780c1.jpg"></div>
 <div align="center"><img src="http://imgsrc.baidu.com/forum/w%3D452/sign=c3bc0da09f3df8dca63d8e94ff1072bf/f9234b36acaf2edd10bf4abe8d1001e9380193c1.jpg"></div>
 <div align="center"><img src="http://imgsrc.baidu.com/forum/w%3D452/sign=c3bc0da09f3df8dca63d8e94ff1072bf/f9234b36acaf2edd10bf4abe8d1001e9380193c1.jpg"></div>
-<div align="center"><img src="https://imgsa.baidu.com/forum/pic/item/023a01e93901213f017d4d8b54e736d12e2e95c1.jpg"></div>
+
 <div align="center"><img src="http://imgsrc.baidu.com/forum/w%3D416/sign=2f36e0efd43f8794d3ff492fe41a0ead/37247bec54e736d1925d8f5f9b504fc2d46269c1.jpg"></div>
 
 ## 介绍就到此为止啦，大家可以去看一下这部电影呢！
