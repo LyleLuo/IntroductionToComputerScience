@@ -10,7 +10,7 @@
 
 ## 实验与实践
 
-1. [01-我的 Markdown 博客](https://github.com/LyleLuo/homework/blob/gh-pages/hw01.md)
+1. [01-我的 Markdown 博客](lab01)
 2. [02-制作 HTML5 游戏](lab02)
 3. [03-我喜欢的电影——黑客帝国](lab03)
 4. [04-我的科普博客](lab04)
