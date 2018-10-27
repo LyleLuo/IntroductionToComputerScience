@@ -16,18 +16,18 @@
 信息产品的生态链各环节之间的耦合性非常强。英特尔所用的架构被普遍支持，而AMD的性能和兼容性使得他的市场份额越来越低。英特尔与微软所形成的联盟似乎越来越牢不可破。特别是游戏对英特尔的支持，使得英特尔越来越多被选择。AMD的生存空间被压榨，其他厂商甚至根本没有生存空间。
 
 
-<img src="http://image.thethirdmedia.com/Article/upload/200807/08070410099290.jpg"></div>
+
 
 AMD真的永无翻身之日了吗？答案当然不是的。AMD在2016年推出了Zen架构，吸引了许多电脑组装者的眼球。而在去年，成功推出了Ryzen系列PC处理器，性能大幅提升。
 
-<div align="center"><img src="http://img1.cache.netease.com/catchpic/E/ED/ED69B8EC5FD163C59B4C24B87780815B.jpg"></div>
+<img src="http://img1.cache.netease.com/catchpic/E/ED/ED69B8EC5FD163C59B4C24B87780815B.jpg"></div>
 
-<div align="center"><img src="https://i01picsos.sogoucdn.com/04450ee844b0f3bb"></div>
+<img src="https://i01picsos.sogoucdn.com/04450ee844b0f3bb"></div>
 
 因此AMD的市场份额实现飙升。而在服务器市场也在不断地创新高。AMD凭借着其出色的性能和超高的性价比夺得了市场。英特尔此时正面临着保市场还是保利润的抉择。
 
 
-<div align="center"><img src=" http://img00.hc360.com/ec/201707/201707031015257860.jpg"></div>
+<img src=" http://img00.hc360.com/ec/201707/201707031015257860.jpg"></div>
 
 事实证明，70-20-10定律似乎牢不可破，但是一旦企业创新成功，就可能让整个市场重新洗牌。
 
