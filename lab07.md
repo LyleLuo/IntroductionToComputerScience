@@ -34,10 +34,10 @@
         _int8 c = a + b;
         
 ## 任务2
-###(1)
+### (1)
     1、将输入的数逐步减一直到为0为止。
     2、for （int x = 3; x > 0; --i）;
 ### (2)
     1、for (int x = 10, int sum = 0; x > 0; --x, sum += x);
-    2、LOD #10 -> STO W -> STO X -> JMZ 18 -> LOD X -> SUB #1 -> ADD W -> STO W -> JMP 8 -> HLT
+    2、LOD #10 -> STO W -> STO X -> JMZ 18 -> LOD X -> SUB #1 -> STO X ->  ADD W -> STO W -> JMP 8 -> HLT
     3、每一句高级语言是多句汇编语言的集合
