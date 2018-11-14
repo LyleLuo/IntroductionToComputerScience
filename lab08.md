@@ -1,7 +1,6 @@
 # 用Construct2开发一个小游戏（进阶）
 大家想必看到第一个游戏开发教程已经可以学会怎么开发游戏了吧！现在我们从游戏策划和游戏设计入手，向大家介绍这款游戏
 
-<div align="center"><img src="http://m.qpic.cn/psb?/V1163ODP3Tjsyo/.gEq7nA8YuNf8SzEHlfhDHUSDuiuuGnV6TfNFxeKR7Q!/b/dFMBAAAAAAAA&bo=ygEXAQAAAAACd44!&rf=viewer_4"></div>
 
 ## 游戏策划
 ### 楔子(Setting)：
@@ -65,3 +64,7 @@ Monster：就是这群可恶的外来物种，具有强大的生命，至少爆�
     |           bullet         | bullet击中monster后触发  |
     |                          |        0.5s后消失       |
     +--------------------------+-------------------------+
+
+<div align="center"><img src="http://m.qpic.cn/psb?/V1163ODP3Tjsyo/.gEq7nA8YuNf8SzEHlfhDHUSDuiuuGnV6TfNFxeKR7Q!/b/dFMBAAAAAAAA&bo=ygEXAQAAAAACd44!&rf=viewer_4"></div>
+
+## 这样游戏策划和设计就大功告成了！ 
