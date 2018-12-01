@@ -1,1 +1,1 @@
-链接![snake_eat.c](snake/snake_eat.c) 
+链接[snake_eat.c](snake/snake_eat.c) 
