@@ -11,14 +11,11 @@
 
 //  -1表示向上(dy)或者向左(dy)  +1表示向下(dy)或者向右(dx)
 void snakeMove(int, int);
-//随机投放食物 
-void put_money(void);
 //输出二维数组图形 
 void output(void);
 //游戏结束 
 void gameover(void);
-//吃食物
-int eat_money(int dx, int dy);
+
 
 char map[12][12] =
 { "***********",
@@ -41,8 +38,7 @@ int continuegame = 1;
 
 
 int main() {
-	char ch = 0;
-	put_money();                               //  首先投放食物 
+	char ch = 0;                              //  首先投放食物 
 	output();
 	while (continuegame == 1) {                      //  每次循环都要判断是否游戏已经结束
 		ch = getchar();
@@ -75,39 +71,19 @@ int main() {
 
 void snakeMove(int dx, int dy) {
 	int i;
-	//判断是否吃到食物
-	if (eat_money(dx, dy));
-	else {
-		map[snakeY[0]][snakeX[0]] = BLANK_CELL;
-		//  如果不是，那么以前的最后一节变成空白
-		map[snakeY[snakeLength - 1]][snakeX[snakeLength - 1]] = SNAKE_BODY;
-		//  以前的头变成身子
-		for (i = 0; i < snakeLength - 1; i++) {
-			//  以前所有的坐标都向前移动
-			snakeX[i] = snakeX[i + 1];
-			snakeY[i] = snakeY[i + 1];
-		}
-		snakeX[snakeLength - 1] += dx;
-		snakeY[snakeLength - 1] += dy;
-		map[snakeY[snakeLength - 1]][snakeX[snakeLength - 1]] = SNAKE_HEAD;
-		//  新的头
-	}
-}
-
-void put_money(void) {
-	int i;
-	moneyX = rand() % 9 + 1;
-	//  钱的横纵坐标随机产生
-	moneyY = rand() % 9 + 1;
-	//  如果钱砸身子上了，就换
+	map[snakeY[0]][snakeX[0]] = BLANK_CELL;
+	//以前的最后一节变成空白
+	map[snakeY[snakeLength - 1]][snakeX[snakeLength - 1]] = SNAKE_BODY;
+	//  以前的头变成身子
 	for (i = 0; i < snakeLength - 1; i++) {
-		while (moneyX == snakeX[i] && moneyY == snakeY[i]) {
-			moneyX = rand() % 9 + 1;
-			moneyY = rand() % 9 + 1;
-			i = -1;
-		}
+		//  以前所有的坐标都向前移动
+		snakeX[i] = snakeX[i + 1];
+		snakeY[i] = snakeY[i + 1];
 	}
-	map[moneyY][moneyX] = '$';
+	snakeX[snakeLength - 1] += dx;
+	snakeY[snakeLength - 1] += dy;
+	map[snakeY[snakeLength - 1]][snakeX[snakeLength - 1]] = SNAKE_HEAD;
+	//  新的头
 }
 
 void output(void) {
@@ -141,24 +117,4 @@ void gameover(void) {
 	}
 }
 
-int eat_money(int dx, int dy) {
-	if (snakeX[snakeLength - 1] + dx == moneyX && snakeY[snakeLength - 1] + dy == moneyY) {
-		//  判断是否吃到了money，即两者坐标是否完全相等
-		snakeLength++;
-		//  如果是，长度加 1
-		snakeX[snakeLength - 1] = snakeX[snakeLength - 2] + dx;
-		//  头坐标向前移动，表示头向前走了一步
-		snakeY[snakeLength - 1] = snakeY[snakeLength - 2] + dy;
-		map[snakeY[0]][snakeX[0]] = SNAKE_BODY;
-		//  因为新生了一节，所以以前的最后一节依然是SNAKE_BODY
-		map[snakeY[snakeLength - 2]][snakeX[snakeLength - 2]] = SNAKE_BODY;
-		//  以前的头变成了身子
-		map[snakeY[snakeLength - 1]][snakeX[snakeLength - 1]] = SNAKE_HEAD;
-		//  现在的头
-		put_money();
-		//  再生一个'$'
-		return 1;
-	}
-	else return 0;
-}
 
