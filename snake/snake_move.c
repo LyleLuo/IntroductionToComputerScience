@@ -42,8 +42,7 @@ int main() {
 	output();
 	while (continuegame == 1) {                      //  每次循环都要判断是否游戏已经结束
 		ch = getchar();
-		system("cls");
-		system("clear");
+		printf("\033[2J");
 		switch (ch) {
 		case 'A':
 		case 'a':
