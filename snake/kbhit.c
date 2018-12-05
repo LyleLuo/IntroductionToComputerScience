@@ -6,6 +6,8 @@
 #include <termios.h>
 #include <unistd.h>
 #include <stdlib.h>
+#include <time.h>
+
 
 static struct termios ori_attr, cur_attr;
 
