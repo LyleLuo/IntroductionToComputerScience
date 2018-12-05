@@ -95,13 +95,17 @@ void snakeMove(int dx, int dy) {
 
 void put_money(void) {
 	int i;
+	srand(time(NULL));
 	moneyX = rand() % 9 + 1;
 	//  钱的横纵坐标随机产生
+	srand(time(NULL));
 	moneyY = rand() % 9 + 1;
 	//  如果钱砸身子上了，就换
 	for (i = 0; i < snakeLength; i++) {
 		while (moneyX == snakeX[i] && moneyY == snakeY[i]) {
+			srand(time(NULL));
 			moneyX = rand() % 9 + 1;
+			srand(time(NULL));
 			moneyY = rand() % 9 + 1;
 			i = -1;
 		}
