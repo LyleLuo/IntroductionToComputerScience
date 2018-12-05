@@ -103,7 +103,7 @@ void put_money(void) {
 	//  钱的横纵坐标随机产生
 	moneyY = rand() % 9 + 1;
 	//  如果钱砸身子上了，就换
-	for (i = 0; i < snakeLength - 1; i++) {
+	for (i = 0; i < snakeLength; i++) {
 		while (moneyX == snakeX[i] && moneyY == snakeY[i]) {
 			moneyX = rand() % 9 + 1;
 			moneyY = rand() % 9 + 1;
