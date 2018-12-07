@@ -132,7 +132,7 @@ int main()
 			if(key == 'd' || key == 'D'){
 				snakeMove(1, 0);
 			}
-		system("clear");
+		system("clear");//对于 VT100 终端, printf("\033[2J")； 也可以实现清屏。
 		output();
 		gameover();
                 } 
