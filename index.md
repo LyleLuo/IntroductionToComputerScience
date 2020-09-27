@@ -33,11 +33,3 @@
 15. [15-智能蛇实验报告](lab15.md)
 16. [16-互联网时代的盈利模式](lab16.md)
 17. [17-互联网时代的热点领域选择，营销方式](lab17.md)
-
-
-## Markdown 语法演示
-
-![](images/exclamation.png) 语法 [demo 文档](demo)， [source](https://github.com/sysu-swi/homework/blob/gh-pages/demo.md)
-
-
-
